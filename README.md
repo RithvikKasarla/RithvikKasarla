@@ -33,9 +33,9 @@ I'm **Rithvik Kasarla**, a passionate **Software Developer** and aspiring **AI/M
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RithvikKasarla&count_private=true&show_icons=true&theme=github_dark&hide_border=true&custom_title=Rithvik's+GitHub+Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RithvikKasarla&count_private=true&show_icons=true&theme=github_dark&hide_border=true&custom_title=Rithvik's+GitHub+Stats&v=2" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RithvikKasarla&theme=github_dark&hide_border=true&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RithvikKasarla&theme=github_dark&hide_border=true&langs_count=10&v=2" />
 </div>
 
 ---
