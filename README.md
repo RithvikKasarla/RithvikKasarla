@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./CyberSteamPunkImage.png" width="100%" alt="Cyberpunk Steampunk Header" />
+  <!-- <img src="./CyberSteamPunkImage.png" width="100%" alt="Cyberpunk Steampunk Header" /> -->
 
   # RITHVIK KASARLA
   ### AI/ML Engineer & Systems Architect
