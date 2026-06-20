@@ -17,6 +17,9 @@ them.
 <a href="https://www.instagram.com/rithvik.journal/">
   <img src="https://img.shields.io/badge/-rithvik.journal-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
+<a href="https://www.tiktok.com/@rithvik.journal">
+  <img src="https://img.shields.io/badge/-@rithvik.journal-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" />
+</a>
 <a href="https://github.com/RithvikKasarla">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </a>
@@ -40,7 +43,7 @@ them.
 - 📷 **[HermesCamera](https://github.com/RithvikKasarla/HermesCamera)** - camera control for Hermes Agent: photo capture, timed video, pan/tilt/zoom movement, room scans, and AI interpretation through `agy`.
 - 🧠 **[agent-core](https://github.com/RithvikKasarla/agent-core)** - TypeScript agent infrastructure experiments.
 - 🎬 **[ReelAutomation](https://github.com/RithvikKasarla/ReelAutomation)** - autonomous reel generation, from idea to deployment.
-- ✍️ **[rithvik.journal](https://www.instagram.com/rithvik.journal/)** - public notes, reflections, and writing practice.
+- ✍️ **[rithvik.journal](https://www.instagram.com/rithvik.journal/)** - commentary on AI, building in public, and Instagram/TikTok reel experiments.
 
 ## Current Work
 
@@ -108,12 +111,11 @@ I keep coming back to systems where AI has to interact with the world:
 [![LinkedIn](https://img.shields.io/badge/-Rithvik%20Kasarla-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rithvik-kasarla)
 [![X](https://img.shields.io/badge/-@HeptadecimalNum-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/HeptadecimalNum)
 [![Instagram](https://img.shields.io/badge/-rithvik.journal-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rithvik.journal/)
+[![TikTok](https://img.shields.io/badge/-@rithvik.journal-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@rithvik.journal)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RithvikKasarla)
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RithvikKasarla&show_icons=true&theme=github_dark&hide_border=true&custom_title=Rithvik's+GitHub+Stats" alt="Rithvik's GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RithvikKasarla&theme=github_dark&hide_border=true&langs_count=10" alt="Rithvik's top languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RithvikKasarla&theme=github-dark&hide_border=true&area=true&custom_title=Commit%20Activity" alt="Rithvik's commit activity graph" />
 </div>
