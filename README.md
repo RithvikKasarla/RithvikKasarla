@@ -40,6 +40,7 @@ them.
 ## Start Here
 
 - 📄 **[Beyond Vector Search](https://iclr.cc/virtual/2026/10016518)** - solo ICLR 2026 workshop research on hallucination-free financial reasoning with chunk-centric knowledge graphs.
+- 🎙️ **[Agent Voice](https://github.com/RithvikKasarla/Agent-Voice)** - always-on local voice front-end for Hermes: wake word, local STT, streaming TTS, and multi-turn spoken tool use.
 - 📷 **[HermesCamera](https://github.com/RithvikKasarla/HermesCamera)** - camera control for Hermes Agent: photo capture, timed video, pan/tilt/zoom movement, room scans, and AI interpretation through `agy`.
 - 🧠 **[agent-core](https://github.com/RithvikKasarla/agent-core)** - TypeScript agent infrastructure experiments.
 - 🎬 **[ReelAutomation](https://github.com/RithvikKasarla/ReelAutomation)** - autonomous reel generation, from idea to deployment.
@@ -82,6 +83,7 @@ I keep coming back to systems where AI has to interact with the world:
 
 | Project | What it explores |
 |---|---|
+| [Agent Voice](https://github.com/RithvikKasarla/Agent-Voice) | Always-on local voice interface for Hermes with wake-word detection, progressive local STT endpointing, streaming TTS, and multi-turn conversation state. |
 | [HermesCamera](https://github.com/RithvikKasarla/HermesCamera) | Python library and Hermes Agent plugin for controlling a local UVC camera, capturing media, moving pan/tilt/zoom, and interpreting output with `agy`. |
 | [agent-core](https://github.com/RithvikKasarla/agent-core) | Minimal TypeScript runtime core for deterministic agent turn orchestration, event streams, session state, and pluggable execution hooks. |
 | [ReelAutomation](https://github.com/RithvikKasarla/ReelAutomation) | Autonomous LLM workflow for planning, creating, and posting Instagram reels. |
@@ -96,7 +98,7 @@ I keep coming back to systems where AI has to interact with the world:
 | Machine learning | PyTorch, TensorFlow, computer vision, adversarial training, optimization |
 | Backend and infra | Python, FastAPI, Node.js, Docker, async pipelines, FAISS, Neo4j, AWS |
 | Product engineering | TypeScript, React, APIs, dashboards, automation, operational workflows |
-| Systems and hardware | Linux, cameras, robotics-adjacent control loops, scripts, device automation |
+| Systems and hardware | Linux, local voice agents, cameras, robotics-adjacent control loops, scripts, device automation |
 
 ## What I'm Optimizing For
 
